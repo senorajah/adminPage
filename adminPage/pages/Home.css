@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.contents,h1{
+    position: absolute;
+    color: #FFD700;
+    top: 5%;
+    left: 15%;
+    font-weight: bold;
+    font-size: 350%; 
+    
+}
+

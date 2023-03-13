@@ -1,0 +1,10 @@
+.calendar{
+    position: absolute;
+    height: 25%;
+    width: 15%;
+    top: 70%;
+    left: 80%;
+    border-radius: 10%;
+    background-color: #636262;
+    
+}

@@ -1,0 +1,9 @@
+.recentEmails{
+    position: absolute;
+    left: 15%;
+    top: 20%;
+    height: 75%;
+    width:  50%;
+    background-color: #636262;
+    border-radius: 5%;
+}

@@ -1,0 +1,12 @@
+.balance{
+    position: absolute;
+    height: 25%;
+    width: 15%;
+    top: 5%;
+    left: 80%;
+    border-radius: 10%;
+    background-color: #636262;
+ 
+    text-align: center;
+     line-height: 150px;
+ }
