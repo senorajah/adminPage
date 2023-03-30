@@ -1,0 +1,46 @@
+.card1:hover{
+ color: #f3cb2c;
+    transition: color 0.5s;
+  
+}
+.card2:hover{
+    color: #f3cb2c;
+    transition: color 0.5s;
+  
+}
+
+.card1{
+    position: absolute;
+    z-index: 1;
+    top: 15%;
+    left: 70%;
+    height: 2in;
+    width: 20%;
+}
+
+.balText{
+    font-weight: bolder;
+    font-size: larger;
+    position: absolute;
+    font-size: 250%;
+    top: 150%;
+    left: 25%;
+}
+.card2{
+    position: absolute;
+    z-index: 1;
+    top: 60%;
+    left: 70%;
+    height: 2in;
+    width: 20%;
+}
+.empText{
+    font-weight: bolder;
+    font-size: larger;
+    position: absolute;
+    font-size: 250%;
+    top: 150%;
+    left: 10%;
+}
+
+
